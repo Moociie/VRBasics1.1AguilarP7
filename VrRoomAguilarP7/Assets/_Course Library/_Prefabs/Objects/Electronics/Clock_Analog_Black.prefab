@@ -48,9 +48,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2b314baa10809b49a33bd30d21cfaa0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hourHand: {fileID: 5731343765418081866}
-  minuteHand: {fileID: 5102794517875732740}
-  secondHand: {fileID: 2066461703636374631}
+  secondHand: {fileID: 5832356130452855646}
+  minuteHand: {fileID: 344744462276475068}
+  hourHand: {fileID: 5931846097522078582}
 --- !u!1 &2066461703636374631
 GameObject:
   m_ObjectHideFlags: 0

@@ -5,9 +5,9 @@ using UnityEngine;
 
 public class RealTime : MonoBehaviour
 {
-    private Transform secondHand;
-    private Transform minuteHand;
-    private Transform hourHand;
+    public  Transform secondHand;
+    public Transform minuteHand;
+    public Transform hourHand;
 
 
     string mySeconds = "00";
